@@ -1,9 +1,9 @@
 # WordPress account
-user:
-password:
+user: ``
+password: ``
 
 # Server
-Host
+Host ``
 
 ## ssh config
 
@@ -26,7 +26,7 @@ Host wpusd
 
 
 # Staging
-Host
+Host ``
 ## ssh config
 
 ```

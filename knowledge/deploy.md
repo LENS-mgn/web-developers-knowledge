@@ -74,10 +74,10 @@ $ mv site_dir.bak site_dir
 
 # rsync のコマンドスニペット
 
-サーバ上のテーマディレクトリをローカルに同期
+サーバ上の uploads をローカルに同期
 
 ```
-$ rsync -r ssh-user@ssh-host:/var/www/themename ~/local/themename
+$ rsync -r ssh-user@ssh-host:/var/www/wp-content/uploads/ ..../wp-content/uploads
 ```
 
 ローカルのテーマをサーバに同期
