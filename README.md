@@ -5,13 +5,13 @@ LENS で利用している Web 制作のあれこれをまとめていきます�
 
 ## ナレッジ/チートシート
 - [backlog](/knowledge/backlog.md)
-- [flow](/knowledge/flow.md)
 - [specification](/knowledge/specification.md)
 - [deploy](/knowledge/deploy.md)
 - [wordmove](/knowledge/wordmove.md)
 - [git](/knowledge/git.md)
 
 ## 案件ごとに作成するドキュメント
+- [flow](/templates/flow.md)
 - [environment](/templates/environment.md)
 - [server](/templates/server.md)
 - [wpplugins](/templates/wpplugins.md)
