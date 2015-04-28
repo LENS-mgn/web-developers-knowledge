@@ -4,13 +4,14 @@ LENS で利用している Web 制作のあれこれをまとめていきます�
 # Table of contents
 
 ## ナレッジ/チートシート
-- [[backlog]]
-- [[flow]]
-- [[specification]]
-- [[deploy]]
-- [[wordmove]]
+- [backlog](/knowledge/backlog.md)
+- [flow](/knowledge/flow.md)
+- [specification](/knowledge/specification.md)
+- [deploy](/knowledge/deploy.md)
+- [wordmove](/knowledge/wordmove.md)
+- [git](/knowledge/git.md)
 
 ## 案件ごとに作成するドキュメント
-- [[environment]]
-- [[server]]
-- [[plugins]]
+- [environment](/templates/environment.md)
+- [server](/templates/server.md)
+- [wpplugins](/templates/wpplugins.md)
