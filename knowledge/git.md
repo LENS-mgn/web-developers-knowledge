@@ -41,3 +41,9 @@ $ git rev-list HEAD | tail -n 1
 ```
 $ git remote update origin --prune
 ```
+
+### リモートリポジトリのブランチを削除
+
+```
+$ git push origin --delete branch_name
+```
