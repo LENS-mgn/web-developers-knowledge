@@ -83,6 +83,6 @@ wordmove コマンドを叩くのは `/vagrant` になります。
 [Problem local database when pull #78](https://github.com/welaika/wordmove/issues/78#issuecomment-55882636)
 に従って以下のファイルを修正
 
-    /usr/local/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/wordmove-1.2.0/lib/wordmove/sql_adapter.sb
+    /usr/local/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/wordmove-1.2.0/lib/wordmove/sql_adapter.rb
 
 Line 44 right before `sql_content.gsub!...`, add `sql_content.force_encoding("UTF-8")`.
