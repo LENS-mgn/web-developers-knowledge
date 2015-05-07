@@ -10,6 +10,7 @@ LENS で利用している Web 制作のあれこれをまとめていきます�
 - [wordmove](/knowledge/wordmove.md)
 - [git](/knowledge/git.md)
 - [aws-amimoto](/knowledge/aws-amimoto.md)
+- [mysql](/knowledge/mysql.md)
 
 ## 案件ごとに作成するドキュメント
 - [flow](/templates/flow.md)
